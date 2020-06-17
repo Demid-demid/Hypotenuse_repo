@@ -1,5 +1,4 @@
 #This is the function that will help you find a hypotenuse from the Right triangele
-
 import math as m
 
 def hypotenuse(a_side,b_side):
@@ -12,5 +11,6 @@ lenght_of_first_side = float(input("Input one side of  triangle: "))
 lenght_of_second_side  = float(input("Input second side of  triangle: "))
 
 hypotenuse(lenght_of_first_side,lenght_of_second_side)
+
 
 
