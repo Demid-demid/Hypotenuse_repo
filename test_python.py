@@ -1,4 +1,4 @@
-#This is new file to  test if git is working.
+#This is the function that will help you find a hypotenuse from the Right triangele
 
 import math as m
 
