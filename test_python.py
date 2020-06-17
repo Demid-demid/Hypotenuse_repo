@@ -14,4 +14,3 @@ lenght_of_second_side  = float(input("Input second side of  triangle: "))
 hypotenuse(lenght_of_first_side,lenght_of_second_side)
 
 
-#sometdfsdf
