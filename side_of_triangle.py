@@ -9,7 +9,7 @@ def hypotenuse(a_side,hypotenuse_lenght):
     b_side = hypotenuse_lenght**2 - a_side**2
     square_root = m.sqrt(b_side)
     rounded = round(square_root,1)
-    print(rounded)
+    print("The lenght of the side is :", rounded)
 
 lenght_of_first_side = float(input("Input one side of triangle: "))
 lenght_of_hypotenuse_side  = float(input("Input hypotenuse of triangle: "))
